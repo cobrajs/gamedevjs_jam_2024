@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Flyer Power</title>
+    <style>
+      body { height: 100vh; margin: 0; padding: 0; display: flex; align-items: center; justify-content: center; }
+      canvas { border: 1px solid gray; }
+    </style>
+  </head>
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/phaser@v3.80.1/dist/phaser.js"></script>
+    <!-- Scenes -->
+    <script src="Boot.js"></script>
+    <script src="Preloader.js"></script>
+    <script src="MainMenu.js"></script>
+    <script src="OfficeScene.js"></script>
+    <script src="FlyerDesignerScene.js"></script>
+    <script src="StreetViewScene.js"></script>
+    <script src="ScoringScene.js"></script>
+    <script src="Settings.js"></script>
+    <!-- Systems -->
+    <script src="FlyerSystem.js"></script>
+    <script src="Stickers.js"></script>
+    <script src="RegionSystem.js"></script>
+    <script src="HelpText.js"></script>
+    <!-- Components -->
+    <script src="components/Phone.js"></script>
+    <script src="components/FlyerDisplay.js"></script>
+    <script src="components/FlyerCanvas.js"></script>
+    <script src="components/IconButton.js"></script>
+    <script src="components/Human.js"></script>
+    <script src="components/Overlay.js"></script>
+    <script src="components/HelpPopup.js"></script>
+    <!-- Main -->
+    <script src="game.js"></script>
+  </body>
+</html>

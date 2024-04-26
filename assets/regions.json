@@ -1,0 +1,104 @@
+{
+  "resources": [
+    "fx.mp3",
+    "fx.ogg"
+  ],
+  "spritemap": {
+    "sticker1": {
+      "start": 0,
+      "end": 0.23,
+      "loop": false
+    },
+    "sticker2": {
+      "start": 0.5,
+      "end": 0.72,
+      "loop": false
+    },
+    "sticker3": {
+      "start": 1,
+      "end": 1.24,
+      "loop": false
+    },
+    "sticker4": {
+      "start": 1.5,
+      "end": 1.69,
+      "loop": false
+    },
+    "sticker5": {
+      "start": 2,
+      "end": 2.21,
+      "loop": false
+    },
+    "sticker6": {
+      "start": 2.5,
+      "end": 2.69,
+      "loop": false
+    },
+    "sticker7": {
+      "start": 3,
+      "end": 3.2,
+      "loop": false
+    },
+    "place": {
+      "start": 3.5,
+      "end": 3.69,
+      "loop": false
+    },
+    "clear1": {
+      "start": 4,
+      "end": 4.32,
+      "loop": false
+    },
+    "clear2": {
+      "start": 4.5,
+      "end": 4.84,
+      "loop": false
+    },
+    "clear3": {
+      "start": 5,
+      "end": 5.2,
+      "loop": false
+    },
+    "clear4": {
+      "start": 5.5,
+      "end": 5.8,
+      "loop": false
+    },
+    "page": {
+      "start": 6,
+      "end": 6.9,
+      "loop": false
+    },
+    "phone": {
+      "start": 7,
+      "end": 8.5,
+      "loop": false
+    },
+    "steps": {
+      "start": 9,
+      "end": 10.14,
+      "loop": true
+    },
+    "click_down1": {
+      "start": 10.5,
+      "end": 10.78,
+      "loop": false
+    },
+    "click_up1": {
+      "start": 11,
+      "end": 11.1,
+      "loop": false
+    },
+    "click_down2": {
+      "start": 11.5,
+      "end": 11.75,
+      "loop": false
+    },
+    "click_up2": {
+      "start": 12,
+      "end": 12.17,
+      "loop": false
+    }
+  },
+  "autoplay": "bg_loop"
+}
